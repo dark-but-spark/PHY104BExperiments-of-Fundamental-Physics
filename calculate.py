@@ -3,7 +3,7 @@ import numpy as np
 import math
 import os
 
-df = pd.read_csv('data.csv',index_col=0,header=0)
+df = pd.read_csv('单摆.csv',index_col=0,header=0)
 a=[0]*10
 b=[0]*10
 k=0
