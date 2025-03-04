@@ -1,4 +1,4 @@
-<style>
+<!---<style>
 .center{
     width:auto;
     display:table;
@@ -6,10 +6,10 @@
     margin-right: auto;
 }
 
-</style>
+</style>--->
 
 # <center>物理实验报告 </center>
- <center>陈建烨 12411913 2025.. 星期二下午</center> <!---这里是姓名栏--->
+ <center>陈建烨 12411913 2025..</center> <!---这里是姓名栏--->
 
 ### 一. 实验名称：<u>114514</u>
 <!---课程名称写<u>和</u>之间--->
