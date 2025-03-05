@@ -53,8 +53,8 @@ for i in range(12):
     cnt[i]=cnt[i]/(n*0.06)#下一行输出markdown表格格式
     p[i]=P(b[i],a_bar,sigma)
    # print("|$(",format(b[i]-0.03,'.2f'),",",format(b[i]+0.03,'.2f'),']$|$',cnt[i],'$|$',format(cnt[i]/n,'.2f'),'$|$',format(cnt[i]/(n*0.06),'.2f'),'$|$',format(P(b[i],a_bar,sigma),'.2f'),'$|')
-for i in range(1,4):
-    print(i,sigm[i],sigm[i]/n)
+# for i in range(1,4):
+#     print(i,sigm[i],sigm[i]/n)
 # plt.bar(b[0:12],cnt[0:12],width=0.05)
 # plt.plot(b[0:12],p[0:12],color='red',label='正态分布曲线',marker='*')
 # plt.xlabel('时间/s')
@@ -63,7 +63,7 @@ for i in range(1,4):
 # plt.legend()
 # plt.savefig('时间.png',dpi=300)
 # plt.show()
-
+print(sigma*1.96/(n**0.5))
 #pf.to_csv('时间.csv')
 
 f.close()
