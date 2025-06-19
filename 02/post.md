@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 热电偶特性及其应用
-permalink: /02/
 categories: 
   - 实验报告
   - 热电偶
