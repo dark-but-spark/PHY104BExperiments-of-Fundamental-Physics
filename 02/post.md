@@ -22,7 +22,7 @@ categories:
 <div style="margin-bottom: 1px">
 <img style="border-radius: 0.3125em;display:block;margin:auto;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/imgs/02/1.png">
+    src="imgs/1.png">
 </div>
 <div style="margin-bottom: 20px;">
 <center style="font-size:12px;color:#C0C0C0;padding=2px">图1 两种不同金属构成的闭合电路</center>
@@ -61,7 +61,7 @@ $$
 <div style="margin-bottom: 1px">
 <img style="border-radius: 0.3125em;display:block;margin:auto;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/imgs/02/2.png">
+    src="imgs/2.png">
 </div>
 <div style="margin-bottom: 20px;">
 <center style="font-size:12px;color:#C0C0C0;padding=2px">图2  中间定律连线示意图</center>
@@ -97,7 +97,7 @@ $$
 <div style="margin-bottom: 1px">
 <img style="border-radius: 0.3125em;display:block;margin:auto;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/imgs/02/3.png">
+    src="imgs/3.png">
 </div>
 
 2. 验证中间导体定律
@@ -111,7 +111,7 @@ $$
 <div style="margin-bottom: 1px">
 <img style="border-radius: 0.3125em;display:block;margin:auto;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/imgs/02/4.png">
+    src="imgs/4.png">
 </div>
 
 3. 验证中间温度定律
