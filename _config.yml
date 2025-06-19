@@ -1,5 +1,9 @@
 layouts_dir: _layouts
 
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
+# markdown: kramdown
+# kramdown:
+#   math_engine: mathjax
+
+include:
+  - "**/*.md"  # 确保包含所有 Markdown 文件
+  - "**/*.html" # 确保包含所有 HTML 文件
