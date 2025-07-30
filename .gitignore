@@ -1,1 +1,3 @@
 *.mov
+_site/
+.vscode/
